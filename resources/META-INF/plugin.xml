@@ -1,0 +1,25 @@
+<idea-plugin>
+  <id>com.intellij.colorIconsTheme</id>
+  <name>Color Icons Theme</name>
+  <version>1.0</version>
+  <vendor url="http://www.jetbrains.com">JetBrains</vendor>
+
+  <description><![CDATA[
+      This theme adds colors to all icons in IDE
+    ]]></description>
+
+
+  <idea-version since-build="191.0"/>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="9c5571cf-443a-407d-907b-3c13a3acfba5" path="/Color_Icons_Darcula.theme.json"/>
+    <themeProvider id="d2f0e025-6edc-4076-a104-e0bb1ff8e84d" path="/Color_Icons_Default.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

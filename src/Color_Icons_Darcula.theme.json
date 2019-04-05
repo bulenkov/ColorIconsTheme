@@ -1,0 +1,29 @@
+{
+  "name": "Color Icons Darcula",
+  "dark": true,
+  "author": "Konstantin Bulenkov, Alina Mishina",
+  "ui": {
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#ffffff",
+      "Actions.Red": "#a71e00",
+      "Actions.Yellow": "#fff482",
+      "Actions.Green": "#00E61F",
+      "Actions.Blue": "#5290ff",
+      "Actions.GreyInline.Dark": "#FFFFFFFF",
+
+      "Objects.Grey": "#ca7500ff",
+      "Objects.RedStatus": "#FF4340FF",
+      "Objects.Red": "#FF4340FF",
+      "Objects.Pink": "#FF8FA2FF",
+      "Objects.Yellow": "#FFD333FF",
+      "Objects.Green": "#00E61FFF",
+      "Objects.Blue": "#57a9ffff",
+      "Objects.Purple": "#A880FFFF",
+      "Objects.BlackText": "#000000FF",
+      "Objects.YellowDark": "#FFD333FF",
+      "Objects.GreenAndroid": "#00E61FFF"
+    }
+  }
+}
